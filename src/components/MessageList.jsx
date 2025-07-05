@@ -1,4 +1,4 @@
-import { Bot, User, AlertCircle } from 'lucide-react';
+import { Bot, User, AlertCircle, MessageSquare } from 'lucide-react';
 import { PROVIDER_CONFIGS } from '../config/aiProviders';
 
 export const MessageList = ({ messages, isLoading, error }) => {
